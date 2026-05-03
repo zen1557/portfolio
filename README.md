@@ -1,4 +1,4 @@
-![Banner](./a_wide_dark_themed_modern_web_developer_designer.png)
+![Banner](./hammadrahilcv.png)
 
 ## 🧭 About Me
 
