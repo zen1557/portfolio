@@ -1,4 +1,3 @@
-![Banner](./introhammad.png)
 
 ## 🧭 About Me
 
