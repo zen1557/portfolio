@@ -1,4 +1,4 @@
-![Banner](./hammadrahilcv.png)
+![Banner](./introhammad.png)
 
 ## 🧭 About Me
 
